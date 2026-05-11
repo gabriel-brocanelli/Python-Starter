@@ -19,10 +19,15 @@ Repositório dedicado ao meu aprendizado de Python, contendo exercícios de lóg
 * *Player de Áudio.py*: Player de áudio básico para execução de arquivos MP3 utilizando a biblioteca pygame.
 * *Gerador de senhas.py*: Script para criação de senhas aleatórias e seguras.
 
+## 🚀 Desafios de Python
+Repositório criado para armazenar scripts de exercícios e projetos práticos.
+
+### Exercícios de Strings
+* *Analise de strings e posições.py*: Analisador de textos. Lê uma frase e identifica a quantidade e a posição da letra "A" usando os métodos .count(), .find() e .rfind().
+
 ### 🛠️ Ferramentas
 * *Linguagem:* Python 3.x
 * *IDE:* PyCharm
 * *Controle de Versão:* Git / GitHub
-
 ---
 Este repositório é atualizado constantemente à medida que avanço nos meus estudos.
