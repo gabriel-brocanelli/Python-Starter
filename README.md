@@ -18,12 +18,8 @@ Repositório dedicado ao meu aprendizado de Python, contendo exercícios de lóg
 * *Sorteio de Alunos.py*: Sistema de sorteio aleatório de nomes utilizando Listas e o módulo random.
 * *Player de Áudio.py*: Player de áudio básico para execução de arquivos MP3 utilizando a biblioteca pygame.
 * *Gerador de senhas.py*: Script para criação de senhas aleatórias e seguras.
-
-## 🚀 Desafios de Python
-Repositório criado para armazenar scripts de exercícios e projetos práticos.
-
-### Exercícios de Strings
 * *Analise de strings e posições.py*: Analisador de textos. Lê uma frase e identifica a quantidade e a posição da letra "A" usando os métodos .count(), .find() e .rfind().
+* * Jogo da Adivinhação 1.0.py:  Jogo de Adivinhação | O computador escolhe um número e o usuário tenta acertar usando a lógica if/else.  
 
 ### 🛠️ Ferramentas
 * *Linguagem:* Python 3.x
