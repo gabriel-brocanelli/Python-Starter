@@ -20,6 +20,7 @@ Repositório dedicado ao meu aprendizado de Python, contendo exercícios de lóg
 * *Gerador de senhas.py*: Script para criação de senhas aleatórias e seguras.
 * *Analise de strings e posições.py*: Analisador de textos. Lê uma frase e identifica a quantidade e a posição da letra "A" usando os métodos .count(), .find() e .rfind().
 * * Jogo da Adivinhação 1.0.py:  Jogo de Adivinhação | O computador escolhe um número e o usuário tenta acertar usando a lógica if/else.  
+* *Empréstimos.py*: Aprovando Empréstimo Bancário | Conceitos Aplicados: Condicionais compostas e alinhadas ('if', 'else'), cálculo de percentual, formatação de strings e cores no terminal. 
 
 ### 🛠️ Ferramentas
 * *Linguagem:* Python 3.x
