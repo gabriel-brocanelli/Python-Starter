@@ -1,6 +1,6 @@
 from datetime import date
 ano_atual = date.today().year
-genero = input('Qual o seu gênero? (homem/mulher): '.strip().lower())
+genero = input('Qual o seu gênero? (homem/mulher): ').strip().lower()
 ano_nascimento = int(input('Ano de nascimento: '))
 
 idade = ano_atual - ano_nascimento
