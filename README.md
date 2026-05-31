@@ -19,8 +19,14 @@ Repositório dedicado ao meu aprendizado de Python, contendo exercícios de lóg
 * *Player de Áudio.py*: Player de áudio básico para execução de arquivos MP3 utilizando a biblioteca pygame.
 * *Gerador de senhas.py*: Script para criação de senhas aleatórias e seguras.
 * *Analise de strings e posições.py*: Analisador de textos. Lê uma frase e identifica a quantidade e a posição da letra "A" usando os métodos .count(), .find() e .rfind().
-* * Jogo da Adivinhação 1.0.py:  Jogo de Adivinhação | O computador escolhe um número e o usuário tenta acertar usando a lógica if/else.  
+* *Jogo da Adivinhação 1.0.py:  Jogo de Adivinhação | O computador escolhe um número e o usuário tenta acertar usando a lógica if/else.  
 * *Empréstimos.py*: Aprovando Empréstimo Bancário | Conceitos Aplicados: Condicionais compostas e alinhadas ('if', 'else'), cálculo de percentual, formatação de strings e cores no terminal. 
+* *Alistamento.py*: Verificador de Alistamento Militar, * **O que faz:** Solicita o gênero e o ano de nascimento do usuário. Se for homem, calcula com base no ano atual se ele precisa se alistar, se ainda vai se alistar (calculando o ano exato) ou se já passou do tempo. Se for mulher, informa a isenção.
+* **Conceitos aplicados:**
+  * Uso da biblioteca nativa `datetime` (`date.today().year`).
+  * Tratamento de strings com `.strip()` e `.lower()`.
+  * Estruturas condicionais aninhadas (`if / elif / else`).
+  * Formatação moderna com **f-strings**.
 
 ### 🛠️ Ferramentas
 * *Linguagem:* Python 3.x
