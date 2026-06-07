@@ -47,6 +47,13 @@ O sistema avalia a opção escolhida pelo cliente e aplica as seguintes regras:
 * *Conceitos Aplicados*: * Importação de módulos externos (random.randint e time.sleep).
 * Estruturas condicionais altamente aninhadas (if/elif/else) para mapear a matriz de possibilidades do jogo.
 * Tratamento básico de opções inválidas.
+* *Tabuada 2.0.py*: Gerador de Tabuada v2.0. Este script (Tabuada 2.0.py) gera automaticamente a tabuada de qualquer número inteiro fornecido pelo usuário, calculando instantaneamente os valores de 1 a 10. 
+* Diferenciais do Projeto: * *Código Otimizado:* Substitui a necessidade de múltiplos blocos manuais de exibição pelo uso de laços de repetição, tornando a aplicação escalável.
+* *Alinhamento de Terminal:* Utiliza formatação de strings avançada (`{:2}`) para garantir que a tabuada permaneça perfeitamente alinhada visualmente no console, mesmo quando os multiplicadores passam para dois dígitos (ex: 10).
+* Conceitos Aplicados: * Estruturas de repetição controladas (`for c in range(1, 11`)).
+* Captura e conversão de tipos de dados primitivos (`int(input())`).
+* Formatação e alinhamento de máscaras de substituição dentro de strings usando o método `.format()`.
+
 
 ### 🛠️ Ferramentas
 * *Linguagem:* Python 3.x
