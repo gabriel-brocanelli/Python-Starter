@@ -29,6 +29,7 @@ Repositório dedicado ao meu aprendizado de Python, contendo exercícios de lóg
   * Formatação moderna com **f-strings**.
 
  * *IMC.py*: Calculadora de IMC (Índice de Massa Corporal) O programa solicita o peso (em kg) e a altura (em metros) do usuário, realiza o cálculo matemático e avalia o resultado através de estruturas condicionais (`if`, `elif`, `else`):
+ 
 * *Loja de Compras.py*: Sistema de Vendas (Lojas Brocanelli) Este é um script de simulação de caixa de loja (Loja de Compras.py). Ele recebe o valor total das compras e processa diferentes condições de pagamento, calculando descontos ou acréscimo de juros automaticamente.
 * Condições e Regras de Negócio
 O sistema avalia a opção escolhida pelo cliente e aplica as seguintes regras:
@@ -40,6 +41,7 @@ O sistema avalia a opção escolhida pelo cliente e aplica as seguintes regras:
 * Alinhamento e estilização de strings no terminal com '{:=^40}'.
 * Estruturas condicionais encadeadas (if, elif, else).
 * Operações matemáticas aplicadas a porcentagem e parcelamento.
+
 * *Jogo JOKENPÔ.py*: Jogo Jokenpô (Pedra, Papel e Tesoura) Este é um jogo interativo de Pedra, Papel e Tesoura (Jogo JOKENPO.py) onde o usuário joga contra o computador. O script processa as escolhas e valida todas as combinações possíveis de vitória, derrota ou empate.
 * Diferenciais do Projeto: * *Efeito de Suspense:* Utiliza pausas cronometradas para simular o clássico "JO-KEN-PO!" antes de revelar as jogadas.
 * *Inteligência Artificial Simples:* Uso de geração de números pseudoaleatórios para determinar a jogada da máquina.
@@ -47,13 +49,13 @@ O sistema avalia a opção escolhida pelo cliente e aplica as seguintes regras:
 * *Conceitos Aplicados*: * Importação de módulos externos (random.randint e time.sleep).
 * Estruturas condicionais altamente aninhadas (if/elif/else) para mapear a matriz de possibilidades do jogo.
 * Tratamento básico de opções inválidas.
+
 * *Tabuada 2.0.py*: Gerador de Tabuada v2.0. Este script (Tabuada 2.0.py) gera automaticamente a tabuada de qualquer número inteiro fornecido pelo usuário, calculando instantaneamente os valores de 1 a 10. 
 * Diferenciais do Projeto: * *Código Otimizado:* Substitui a necessidade de múltiplos blocos manuais de exibição pelo uso de laços de repetição, tornando a aplicação escalável.
 * *Alinhamento de Terminal:* Utiliza formatação de strings avançada (`{:2}`) para garantir que a tabuada permaneça perfeitamente alinhada visualmente no console, mesmo quando os multiplicadores passam para dois dígitos (ex: 10).
 * Conceitos Aplicados: * Estruturas de repetição controladas (`for c in range(1, 11`)).
 * Captura e conversão de tipos de dados primitivos (`int(input())`).
 * Formatação e alinhamento de máscaras de substituição dentro de strings usando o método `.format()`.
-
 
 ### 🛠️ Ferramentas
 * *Linguagem:* Python 3.x
