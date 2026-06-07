@@ -28,6 +28,10 @@ Repositório dedicado ao meu aprendizado de Python, contendo exercícios de lóg
   * Estruturas condicionais aninhadas (`if / elif / else`).
   * Formatação moderna com **f-strings**.
 
+ * *IMC.py*: Calculadora de IMC (Índice de Massa Corporal) O programa solicita o peso (em kg) e a altura (em metros) do usuário, realiza o cálculo matemático e avalia o resultado através de estruturas condicionais (`if`, `elif`, `else`):
+
+
+
 ### 🛠️ Ferramentas
 * *Linguagem:* Python 3.x
 * *IDE:* PyCharm
